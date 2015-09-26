@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamil",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.64.0",
+    "slack-client": "^1.4.1",
+    "unirest": "^0.4.2"
+  }
+}
